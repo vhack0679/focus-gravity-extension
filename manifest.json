@@ -1,0 +1,40 @@
+{
+  "manifest_version": 3,
+  "name": "FocusGravity",
+  "version": "1.0",
+  "description": "Understand, prioritize, and act on tabs with Focus Gravity. Not just a tab manager.",
+  "permissions": [
+    "tabs",
+    "storage",
+    "alarms",
+    "tabGroups"
+  ],
+  "background": {
+    "service_worker": "background/background.js",
+    "type": "module"
+  },
+  "icons": {
+    "16": "icons/icon-16_resized.png",
+    "48": "icons/icon-48_resized.png",
+    "128": "icons/icon-128_resized.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "content/content.js"
+      ]
+    }
+  ],
+  "action": {
+    "default_popup": "popup/popup.html",
+    "default_title": "FocusGravity",
+    "default_icon": {
+      "16": "icons/icon-16_resized.png",
+      "48": "icons/icon-48_resized.png",
+      "128": "icons/icon-128_resized.png"
+    }
+  }
+}
