@@ -25,15 +25,15 @@
 ### 🎛️ The Dashboard
 A clean pop-up showcasing your open tabs, wasted time metrics, and smart groups.
 <div align="center">
-  <img src="assets/dashboard.png" width="400" alt="FocusGravity Dashboard" />
+  <img src="assets/dashboard.jpeg" width="400" alt="FocusGravity Dashboard" />
 </div>
 
 ### 🌙 Focus Mode: Off vs On
 Toggle Focus Mode to instantly hide distractions and keep only your priority tabs.
 <div align="center">
-  <img src="assets/focus-off.png" width="48%" alt="Focus Mode Off" />
+  <img src="assets/focus-off.jpeg" width="48%" alt="Focus Mode Off" />
   &nbsp;&nbsp;
-  <img src="assets/focus-on.png" width="48%" alt="Focus Mode On" />
+  <img src="assets/focus-on.jpeg" width="48%" alt="Focus Mode On" />
 </div>
 
 ## 📥 Installation
