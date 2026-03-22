@@ -21,7 +21,20 @@
 - **🎨 Beautiful UI:** A clean, minimal pop-up interface that doesn't distract you.
 
 ## 📸 Screenshots
-*(Coming Soon - add your screenshots here!)*
+
+### 🎛️ The Dashboard
+A clean pop-up showcasing your open tabs, wasted time metrics, and smart groups.
+<div align="center">
+  <img src="assets/dashboard.png" width="400" alt="FocusGravity Dashboard" />
+</div>
+
+### 🌙 Focus Mode: Off vs On
+Toggle Focus Mode to instantly hide distractions and keep only your priority tabs.
+<div align="center">
+  <img src="assets/focus-off.png" width="48%" alt="Focus Mode Off" />
+  &nbsp;&nbsp;
+  <img src="assets/focus-on.png" width="48%" alt="Focus Mode On" />
+</div>
 
 ## 📥 Installation
 
